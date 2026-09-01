@@ -10,3 +10,7 @@ Each problem is stored in a directory named using its iJudge problem ID:
 ojxxxx/
 ├── submission.py
 └── main.py
+```
+
+- submission.py — submission details, planning, selected test cases, and related answers. 
+- main.py — solution for the problem. 
